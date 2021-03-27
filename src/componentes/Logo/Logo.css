@@ -1,3 +1,7 @@
 .Tilt {
     background: linear-gradient(89deg, #200122 0%, #6f0000 100%);
 }
+
+.centralizado {
+    align-content: center;
+}
