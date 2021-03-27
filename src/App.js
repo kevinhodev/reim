@@ -163,7 +163,7 @@ class App extends React.Component {
         <Navegação quandoARotaAlterar = { this.quandoARotaAlterar } entrou = { entrou }/>
         { rota === 'início' 
           ? <div> 
-              <Logo className = "tc"/>
+              <Logo />
               <Rank nome = { this.state.usuário.nome } entradas = { this.state.usuário.entradas }/>
               <FormulárioDeLinkDaImagem quandoAEntradaMudar = { this.quandoAEntradaMudar } aoPressionarOBotãoDetectar = { this.aoPressionarOBotãoDetectar }/>
               <ReconhecimentoDeImagem caixa = { caixa } urlDaImagem = { urlDaImagem }/>
