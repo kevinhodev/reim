@@ -6,4 +6,4 @@ Utiliza os seguintes pacotes/frameworks/apis:
 3. ParticleJs: Criação de partículas.
 4. Clarifai: API para reconhecimento de rosto, de cores, etc em imagens.
 
-![image](https://user-images.githubusercontent.com/11366871/162229346-ae3c8d23-7505-4977-a6dc-a54c5b119f88.png)
+![image](https://user-images.githubusercontent.com/11366871/162340772-f6862758-a240-493d-9d52-59c042f23a5a.png)
